@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book id="1">
+		<name>java</name>
+		<author>abc</author>
+		<year>1998</year>
+		<price>10</price>
+	</book>
+
+
+	<book id="2">
+		<name>偶或</name>
+		<year>1998</year>
+		<price>77</price>
+		<language>Chinese</language>
+	</book>
+
+</bookstore>
